@@ -67,6 +67,9 @@
 -   Term 2 Week 11 - MATH3611 Revision Seminar:
     [slides](mathematics/2026/MATH36115705%20Seminar%202026%203.0.pdf),
     [recording](https://www.youtube.com/live/ymA1-y3p098)
+-   Term 3 Week 1 - The Point of Parallel Lines: The Intersection of Geometry and Rendering
+    [slides](mathematics/2026/The%20Point%20of%20Parallel%20Lines%20The%20Intersection%20of%20Geometry%20and%20Rendering.pdf),
+    [recording](https://www.youtube.com/live/iuX6nZS2DHg)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:

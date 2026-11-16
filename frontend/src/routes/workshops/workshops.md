@@ -72,8 +72,8 @@
     [recording](https://www.youtube.com/live/iuX6nZS2DHg)
 -   Term 3 Week 9 - Generating Function Workshop
     [slides](mathematics/2026/Generating%20Function%20Workshop%20Slides.pdf),
-    [problems](mathematics/2026/Generating%20Function%20Worksheet.pdf)
-    [solutions](mathematics/2026/Generating%20Function%20Worksheet%20Solutions.pdf)
+    [problems](mathematics/2026/Generating%20Function%20Worksheet.pdf),
+    [solutions](mathematics/2026/Generating%20Function%20Worksheet%20Solutions.pdf),
     [recording](https://www.youtube.com/live/iuX6nZS2DHg)
 
 # Programming 2025

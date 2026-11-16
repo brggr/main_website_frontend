@@ -19,16 +19,28 @@
 
     const events: { title: string; href: string; description: string }[] = [
         {
-            title: "Workshops",
-            href: "/workshops",
+            title: "Weekly Talks",
+            href: "/talks",
             description:
-                "Course revision, CP concepts, and seminars on math and computing"
+                "Undergraduate mathematics weekly talks"
         },
         {
-            title: "Competitions",
+            title: "Upcoming Events",
+            href: "/#upcoming-events",
+            description:
+                "CPMSoc's upcoming workshops, events and activities"
+        },
+        {
+            title: "Past Workshops",
+            href: "/workshops",
+            description:
+                "Past workshop resources"
+        },
+        {
+            title: "Past Competitions",
             href: "/competitions",
             description:
-                "ICPC, SMMC and other competitions held throughout the year"
+                "Past competition outcomes and resources"
         },
     ];
 

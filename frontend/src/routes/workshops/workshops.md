@@ -87,7 +87,7 @@
     [slides](mathematics/2026/Generating%20Function%20Workshop%20Slides.pdf),
     [problems](mathematics/2026/Generating%20Function%20Worksheet.pdf),
     [solutions](mathematics/2026/Generating%20Function%20Worksheet%20Solutions.pdf),
-    [recording](https://www.youtube.com/live/iuX6nZS2DHg)
+    [recording](https://www.youtube.com/live/_G-xKxi5KdA)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:

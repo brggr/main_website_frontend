@@ -70,6 +70,11 @@
 -   Term 3 Week 1 - The Point of Parallel Lines: The Intersection of Geometry and Rendering
     [slides](mathematics/2026/The%20Point%20of%20Parallel%20Lines%20The%20Intersection%20of%20Geometry%20and%20Rendering.pdf),
     [recording](https://www.youtube.com/live/iuX6nZS2DHg)
+-   Term 3 Week 9 - Generating Function Workshop
+    [slides](mathematics/2026/Generating%20Function%20Workshop%20Slides.pdf),
+    [problems](mathematics/2026/Generating%20Function%20Worksheet.pdf)
+    [solutions](mathematics/2026/Generating%20Function%20Worksheet%20Solutions.pdf)
+    [recording](https://www.youtube.com/live/iuX6nZS2DHg)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
